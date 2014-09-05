@@ -1,7 +1,10 @@
 PyCharm-color-scheme
 ====================
 
-Based on Solarized Light (Alternate) [http://ideacolorthemes.org/themes/83/]
+Based on [Solarized Light (Alternate)](http://ideacolorthemes.org/themes/83/)
+
+## Dependencies
+This color scheme uses [Meslo font](https://github.com/andreberg/Meslo-Font). Install it before using theme for proper looking.
 
 ## Installation
 1. Copy 'VF [Solarized Light (Alternate) based].icls' to ~/.PyCharm30/config/colors/
