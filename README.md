@@ -11,4 +11,4 @@ This color scheme uses [Meslo font](https://github.com/andreberg/Meslo-Font). In
 2. Go to menu 'File' -> 'Settings' -> 'Colors & Fonts', select 'VF [Solarized Light (Alternate) based]' and press 'OK' or 'Apply' button. 
 
 ## How it looks
-![VF PyCharm color theme](http://i.imgur.com/3Jk2KGv.png)
+![VF PyCharm color theme](https://camo.githubusercontent.com/2e93e871e546127a106bbd2e6e158f46ce476e43/687474703a2f2f692e696d6775722e636f6d2f334a6b324b47762e706e67)
